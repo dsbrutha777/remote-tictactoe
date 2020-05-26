@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/remote-tictactoe/static/css/main.d1b05096.chunk.css",
+    "main.js": "/remote-tictactoe/static/js/main.6284cd48.chunk.js",
+    "main.js.map": "/remote-tictactoe/static/js/main.6284cd48.chunk.js.map",
+    "runtime-main.js": "/remote-tictactoe/static/js/runtime-main.f63e2e75.js",
+    "runtime-main.js.map": "/remote-tictactoe/static/js/runtime-main.f63e2e75.js.map",
+    "static/js/2.e4fd0fc0.chunk.js": "/remote-tictactoe/static/js/2.e4fd0fc0.chunk.js",
+    "static/js/2.e4fd0fc0.chunk.js.map": "/remote-tictactoe/static/js/2.e4fd0fc0.chunk.js.map",
+    "index.html": "/remote-tictactoe/index.html",
+    "precache-manifest.41a37cf81f90e939703c40907e7f81de.js": "/remote-tictactoe/precache-manifest.41a37cf81f90e939703c40907e7f81de.js",
+    "service-worker.js": "/remote-tictactoe/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/remote-tictactoe/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e4fd0fc0.chunk.js.LICENSE.txt": "/remote-tictactoe/static/js/2.e4fd0fc0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/remote-tictactoe/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f63e2e75.js",
+    "static/js/2.e4fd0fc0.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6284cd48.chunk.js"
+  ]
+}
