@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/remote-tictactoe/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/remote-tictactoe/static/js/main.ebf0bb03.chunk.js",
-    "main.js.map": "/remote-tictactoe/static/js/main.ebf0bb03.chunk.js.map",
+    "main.js": "/remote-tictactoe/static/js/main.0253999e.chunk.js",
+    "main.js.map": "/remote-tictactoe/static/js/main.0253999e.chunk.js.map",
     "runtime-main.js": "/remote-tictactoe/static/js/runtime-main.f63e2e75.js",
     "runtime-main.js.map": "/remote-tictactoe/static/js/runtime-main.f63e2e75.js.map",
     "static/js/2.9bec5662.chunk.js": "/remote-tictactoe/static/js/2.9bec5662.chunk.js",
     "static/js/2.9bec5662.chunk.js.map": "/remote-tictactoe/static/js/2.9bec5662.chunk.js.map",
     "index.html": "/remote-tictactoe/index.html",
-    "precache-manifest.16c65c60bd09a75082924269b1ae1860.js": "/remote-tictactoe/precache-manifest.16c65c60bd09a75082924269b1ae1860.js",
+    "precache-manifest.9a8bf2089d6ad371df1b4f4a2c8faefa.js": "/remote-tictactoe/precache-manifest.9a8bf2089d6ad371df1b4f4a2c8faefa.js",
     "service-worker.js": "/remote-tictactoe/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/remote-tictactoe/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.9bec5662.chunk.js.LICENSE.txt": "/remote-tictactoe/static/js/2.9bec5662.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f63e2e75.js",
     "static/js/2.9bec5662.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ebf0bb03.chunk.js"
+    "static/js/main.0253999e.chunk.js"
   ]
 }
